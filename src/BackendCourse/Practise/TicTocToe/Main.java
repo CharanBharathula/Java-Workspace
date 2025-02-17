@@ -1,6 +1,5 @@
 package BackendCourse.Practise.TicTocToe;
 
-import BackendCourse.Practise.TicTocToe.Models.Board;
 import BackendCourse.Practise.TicTocToe.Models.Game;
 import BackendCourse.Practise.TicTocToe.Models.GameState;
 import BackendCourse.Practise.TicTocToe.controllers.GameController;
